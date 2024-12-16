@@ -3,7 +3,6 @@
 My Name is Max and I am a software engineer located in Germany.
 
 I am currently studying for my master's degree in applied computer science.
-
 Besides studying for university I am interested in learning new things and expand my knowledge and skills in development.
 
 ### Fun facts:
